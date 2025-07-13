@@ -1,5 +1,6 @@
-### Amout Me:
+## **About Me:**
 Hey, I’m Steven — Aspiring Software Engineer with a passion for coding, data, and mathematics. Currently a Performance Engineer at Silicon Ranch, blending data science with solar tech. <br>
+
 
 
 ### Tech Stack:
