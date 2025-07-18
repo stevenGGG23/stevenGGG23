@@ -1,7 +1,5 @@
 # Steven Gobran
-## Hey, I’m Steven 👋 Software Engineer with a passion for coding, data, and mathematics.  
-Currently a **Performance Engineer at Silicon Ranch**, blending data science with solar technology.  
-I'm a **Full Stack Developer**, **MTSU Class of 2026**, former **Python & Game Development Instructor at iCode**, and a **University TA for Computer Science II at MTSU**.
+## Hey, I’m Steven 👋 Software Engineer with a passion for coding, data, and mathematics. Currently a **Performance Engineer at Silicon Ranch**, blending data science with solar technology. I'm a **Full Stack Developer**, **MTSU Class of 2026**, former **Python & Game Development Instructor at iCode**, and a **University TA for Computer Science II at MTSU**.
 
 
 ### Tech Stack:
