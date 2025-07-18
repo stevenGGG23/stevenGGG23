@@ -1,7 +1,7 @@
  <!-- 🧠 Typing Intro -->
 <div style="background-color:#FFF5E1; padding: 20px 0; border-radius: 10px;">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Steven!;Full-Stack+Developer+%7C+CS+Major;Tech+Lover+%7C+MMA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Steven!;Full-Stack+Developer+%7C+CS+Major;Tech+Lover+%7C+NBA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
   </p>
 
 ---
