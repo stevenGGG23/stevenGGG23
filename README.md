@@ -32,9 +32,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=stevenGGG23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenGGG23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### What Drives Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=6FA8DC&center=true&vCenter=true&width=700&lines=Performance+Matters.;Data+Without+Quality+Is+Noise.;Code+Should+Scale+and+Last." /> 
 
-### Coding Activity Snapshot
-![](https://github-readme-stats.vercel.app/api?username=stevenGGG23&theme=dark&hide_border=true)
+### Engineering Mindset
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer"/>
 
