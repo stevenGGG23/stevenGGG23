@@ -36,10 +36,8 @@
 ### Coding Activity Snapshot
 ![](https://github-readme-stats.vercel.app/api?username=stevenGGG23&theme=dark&hide_border=true)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer"/>
 
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stevenGGG23&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
