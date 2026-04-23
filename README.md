@@ -5,7 +5,7 @@
   </p>
 
 ---
-## Hey, I’m Steven! Software Engineer with a passion for coding, data, and mathematics. Currently a **Performance Engineer at Silicon Ranch**, blending data science with solar technology. I'm a **Full Stack Developer**, former **Python & Game Development Instructor at iCode**, and **University TA for Computer Science II at MTSU**.
+## Hey, I’m Steven! Software Engineer with a passion for coding, data, and mathematics. Currently a **Data Engineer @ Schneider Electric**. I'm a **Full Stack Developer**, former ** Performance Engnieer intern @ Silicon Ranch Corperation and former Python & Game Development Instructor @ iCode**.
 
 
 ### Tech Stack:
