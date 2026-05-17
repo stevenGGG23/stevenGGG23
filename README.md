@@ -1,12 +1,15 @@
- <!-- Typing Intro -->
+<!-- Typing Intro -->
 <div style="background-color:#FFF5E1; padding: 20px 0; border-radius: 10px;">
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Steven!;Full-Stack+Developer+%7C+CS+Major;Tech+Lover+%7C+NBA+Fan+%7C+Chess+Nerd" alt="Typing SVG" />
   </p>
+</div>
 
 ---
-## Hey, I’m Steven! Software Engineer with a passion for coding, data, and mathematics. Currently a **Data Engineer @ Schneider Electric**. I'm a **Full Stack Developer**, former ** Performance Engnieer intern @ Silicon Ranch Corperation and former Python & Game Development Instructor @ iCode**.
 
+## Hey, I’m Steven! 
+
+Software Engineer with a passion for coding, data, and mathematics. I'm a **Full Stack Developer**, a former **Performance Engineer Intern @ Silicon Ranch Corporation**, and a former **Python & Game Development Instructor @ iCode**.
 
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,22 +29,20 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-
 ### GitHub Stats: 
-- name: Generate stats card
-  uses: soulteary/github-readme-stats-action@v1.0.0
-  with:
-    card: stats
-    options: 'username=${{ github.repository_owner }}&theme=dark'
-    path: profile/stats.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenGGG23&show_icons=true&theme=dark&hide_border=true" alt="Steven's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenGGG23&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quotes" />
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer" alt="Footer Wave"/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=stevenGGG23&icon=8&color=13)](https://visitcount.itsvg.in)
+<p align="right">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=stevenGGG23&icon=8&color=13" alt="Visitor Count" /></a>
+</p>
