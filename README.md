@@ -28,21 +28,3 @@ Software Engineer with a passion for coding, data, and mathematics. I'm a **Full
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### GitHub Stats: 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenGGG23&show_icons=true&theme=dark&hide_border=true" alt="Steven's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenGGG23&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quotes" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=120&section=footer" alt="Footer Wave"/>
-
----
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=stevenGGG23&icon=8&color=13" alt="Visitor Count" /></a>
-</p>
