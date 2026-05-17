@@ -28,7 +28,8 @@
 
 
 ### GitHub Stats: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020) 
 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
