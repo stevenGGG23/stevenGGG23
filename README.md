@@ -7,7 +7,7 @@
 
 ---
 
-## Hey, I’m Steven! 
+## Hey, I’m Steven! Data Analyst @ Schnider Electric 
 
 Software Engineer with a passion for coding, data, and mathematics. I'm a **Full Stack Developer**, a former **Performance Engineer Intern @ Silicon Ranch Corporation**, and a former **Python & Game Development Instructor @ iCode**.
 
