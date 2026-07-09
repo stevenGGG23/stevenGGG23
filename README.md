@@ -7,9 +7,11 @@
 
 ---
 
-## Hey, I’m Steven! Data Analyst @ Schnider Electric 
+## Hey, I’m Steven! 
+Software Engineer with a passion for coding, data, and mathematics. I'm a **Full Stack Developer**, a former **Performance Engineer Intern @ Silicon Ranch Corporation**, and a former **Python & Game Development Instructor @ iCode
 
-Software Engineer with a passion for coding, data, and mathematics. I'm a **Full Stack Developer**, a former **Performance Engineer Intern @ Silicon Ranch Corporation**, and a former **Python & Game Development Instructor @ iCode**.
+Data Analyst @ Schnider Electric 
+**.
 
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
