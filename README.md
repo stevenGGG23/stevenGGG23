@@ -32,6 +32,12 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+### Language Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenGGG23&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
 ### Contribution Activity
 
 <div align="center">
