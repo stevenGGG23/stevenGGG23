@@ -34,6 +34,4 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stevenGGG23/stevenGGG23/main/github-metrics.svg" alt="Steven's GitHub metrics" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenGGG23&layout=compact&theme=tokyonight&langs_count=8" />
