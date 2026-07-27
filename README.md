@@ -32,18 +32,6 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stevenGGG23/stevenGGG23/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-### 3D Contribution Chart
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stevenGGG23/stevenGGG23/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
-</div>
-
 ### Contribution Activity
 
 <div align="center">
