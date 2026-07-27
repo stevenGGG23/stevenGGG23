@@ -37,3 +37,15 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&theme=tokyo-night&hide_border=true&area=true" />
 </div>
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stevenGGG23/stevenGGG23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+### 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
