@@ -34,12 +34,20 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
 
 ### Language Breakdown
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stevenGGG23&theme=tokyonight" />
-</div>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lang-breakdown-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/lang-breakdown-light.svg">
+    <img src="assets/lang-breakdown-light.svg" alt="Language breakdown by repo" />
+  </picture>
+</p>
 
 ### Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&theme=github-dark&hide_border=true&area=true&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&theme=github-light&hide_border=true&area=true&bg_color=00000000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&theme=github-light&hide_border=true&area=true&bg_color=00000000" alt="Contribution activity graph" />
+  </picture>
+</p>

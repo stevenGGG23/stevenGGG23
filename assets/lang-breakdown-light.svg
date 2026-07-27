@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="109" viewBox="0 0 440 109">
+<style>text { font-family: -apple-system, 'Segoe UI', Ubuntu, Sans-Serif; }</style>
+<defs>
+<clipPath id="barclip"><rect x="0" y="4" width="440" height="14" rx="7.0" ry="7.0"/></clipPath>
+</defs>
+<g clip-path="url(#barclip)">
+<rect x="0.00" y="4" width="228.73" height="14" fill="#2a78d6"/>
+<rect x="230.73" y="4" width="73.12" height="14" fill="#eb6834"/>
+<rect x="305.85" y="4" width="67.76" height="14" fill="#1baf7a"/>
+<rect x="375.61" y="4" width="24.83" height="14" fill="#eda100"/>
+<rect x="402.44" y="4" width="19.46" height="14" fill="#e87ba4"/>
+<rect x="423.90" y="4" width="16.10" height="14" fill="#008300"/>
+</g>
+<rect x="0.0" y="32.0" width="11" height="11" rx="3" fill="#2a78d6"/>
+<text x="19.0" y="40.0" font-size="13" fill="#0b0b0b">C++</text>
+<text x="210.0" y="40.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">52.4%</text>
+<rect x="0.0" y="57.0" width="11" height="11" rx="3" fill="#eb6834"/>
+<text x="19.0" y="65.0" font-size="13" fill="#0b0b0b">Python</text>
+<text x="210.0" y="65.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">17.1%</text>
+<rect x="0.0" y="82.0" width="11" height="11" rx="3" fill="#1baf7a"/>
+<text x="19.0" y="90.0" font-size="13" fill="#0b0b0b">C</text>
+<text x="210.0" y="90.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">15.9%</text>
+<rect x="220.0" y="32.0" width="11" height="11" rx="3" fill="#eda100"/>
+<text x="239.0" y="40.0" font-size="13" fill="#0b0b0b">Jupyter Notebook</text>
+<text x="430.0" y="40.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">6.1%</text>
+<rect x="220.0" y="57.0" width="11" height="11" rx="3" fill="#e87ba4"/>
+<text x="239.0" y="65.0" font-size="13" fill="#0b0b0b">HTML</text>
+<text x="430.0" y="65.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">4.9%</text>
+<rect x="220.0" y="82.0" width="11" height="11" rx="3" fill="#008300"/>
+<text x="239.0" y="90.0" font-size="13" fill="#0b0b0b">Other</text>
+<text x="430.0" y="90.0" font-size="13" text-anchor="end" font-variant-numeric="tabular-nums" fill="#52514e">3.7%</text>
+</svg>
