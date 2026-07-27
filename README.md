@@ -31,4 +31,14 @@ Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, 
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p> 
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenggg23&label=Profile%20views&color=0e75b6&style=flat" alt="stevenggg23" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenggg23" alt="stevenggg23" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
