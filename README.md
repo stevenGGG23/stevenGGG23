@@ -4,7 +4,7 @@
 
 ## Hey, I'm Steven
 
-Data Analyst @ Schneider Electric. Software Engineer with a passion for coding, data, and mathematics. Full Stack Developer, former Performance Engineer Intern @ Silicon Ranch Corporation, and former Python & Game Development Instructor @ iCode.
+Data Engineer @ Schneider Electric. Software Engineer with a passion for coding, data, and mathematics. Full Stack Developer, former Performance Engineer @ Silicon Ranch Corporation, and former Python & Game Development Instructor @ iCode.
 
 ### Tech Stack
 
