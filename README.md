@@ -37,9 +37,3 @@ Data Engineer @ Schneider Electric. Software Engineer with a passion for coding,
 <p align="left">
   <img src="assets/lang-breakdown.svg" alt="Language breakdown by repo" />
 </p>
-
-### Contribution Activity
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenGGG23&hide_border=true&area=true&bg_color=00000000&color=2D7AD2&line=2D7AD2&point=2D7AD2&title_color=2D7AD2&area_color=2D7AD2" alt="Contribution activity graph" />
-</p>
