@@ -5,7 +5,7 @@
 
 Data Engineer @ Schneider Electric. Software Engineer with a passion for coding, data, and mathematics. Full Stack Developer, former Performance Engineer @ Silicon Ranch Corporation, and former Python & Game Development Instructor @ iCode.
 
-<table>
+<table width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3>Tech Stack</h3>
@@ -34,13 +34,21 @@ Data Engineer @ Schneider Electric. Software Engineer with a passion for coding,
       </p>
     </td>
     <td width="35%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif" width="256" alt="A pixel-art koi drawn from GitHub activity" />
+      <img src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif" width="220" alt="A pixel-art koi drawn from GitHub activity" />
     </td>
   </tr>
 </table>
 
-### Language Breakdown
-
-<p align="left">
-  <img src="assets/lang-breakdown.svg" alt="Language breakdown by repo" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Language Breakdown</h3>
+      <img src="assets/lang-breakdown.svg" alt="Language breakdown by repo" />
+    </td>
+    <td width="35%" align="center" valign="bottom">
+      <a href="https://egorthinks.github.io/git-bonsai/?u=stevenGGG23&amp;demo=1">
+        <img src="https://raw.githubusercontent.com/egorthinks/git-bonsai/main/assets/bonsai-growth.gif" width="140" alt="A pixel-art bonsai growing from GitHub history; click to grow Steven's interactive tree" />
+      </a>
+    </td>
+  </tr>
+</table>
