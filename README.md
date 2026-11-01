@@ -5,9 +5,11 @@
 
 Data Engineer @ Schneider Electric. Software Engineer with a passion for coding, data, and mathematics. Full Stack Developer, former Performance Engineer @ Silicon Ranch Corporation, and former Python & Game Development Instructor @ iCode.
 
-### Tech Stack
-
-<p align="left">
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Tech Stack</h3>
+      <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -29,7 +31,13 @@ Data Engineer @ Schneider Electric. Software Engineer with a passion for coding,
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/koi/koi.gif" width="256" alt="A pixel-art koi drawn from GitHub activity" />
+    </td>
+  </tr>
+</table>
 
 ### Language Breakdown
 
